@@ -10,3 +10,4 @@ print("最高分:",highest)
 print("最低分:",lowest)
 print("平均:",average)
 print("前三名:", top3)
+
